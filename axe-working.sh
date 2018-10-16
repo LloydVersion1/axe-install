@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-#A Bash script to install the AWS AXE tool created by @kxseven. This script needs to run as "$ sudo su" && "./axe-install.sh".
+#A Bash script to install the AWS AXE tool created by @kxseven. This script needs to run as "$ sudo su" && "./axe-install.sh" and run it at /home/user/ location.
 
 apt-get install -y \
 libkrb5-dev \
